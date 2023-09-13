@@ -1,0 +1,7 @@
+ion-thumbnail {
+  --size: 150px;
+}
+
+.vayana-logo {
+  object-fit: contain;
+}

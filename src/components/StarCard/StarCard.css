@@ -1,0 +1,43 @@
+.star-card {
+  border-radius: 8px;
+  padding: 8px 0;
+  box-shadow: 0 14px 50px -4px rgb(0 0 0 / 15%);
+}
+
+.star-content {
+  padding: 8px 16px 4px;
+  color: black;
+}
+
+.sub-title {
+  display: flex;
+}
+
+.time-container {
+  margin-top: 8px;
+}
+
+.star-type-container {
+  display: flex;
+}
+
+.star-type-text {
+  margin-left: 8px;
+}
+
+.comment-container {
+  padding: 0 0 8px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.action-container {
+  display: flex;
+}
+
+.action-container > * {
+  margin-right: 4px;
+}

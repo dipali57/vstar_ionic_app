@@ -1,0 +1,64 @@
+.avatar-common {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.small-avatar {
+  width: 42px;
+  height: 42px;
+}
+
+.large-avatar {
+  font-size: x-large;
+}
+
+.avatar-p1 {
+  background-color: #34c759;
+  color: white;
+}
+
+.avatar-p2 {
+  background-color: #af52de;
+  color: white;
+}
+
+.avatar-p3 {
+  background-color: #ffcc00;
+  color: black;
+}
+
+.avatar-p4 {
+  background-color: #2094fa;
+  color: white;
+}
+
+.avatar-p5 {
+  background-color: #ff2d55;
+  color: white;
+}
+
+.avatar-p6 {
+  background-color: #5856d6;
+  color: white;
+}
+
+.avatar-p7 {
+  background-color: #ff9500;
+  color: white;
+}
+
+.avatar-p8 {
+  background-color: #787aff;
+  color: white;
+}
+
+.avatar-p9 {
+  background-color: #606060;
+  color: white;
+}
+
+.avatar-p10 {
+  background-color: #ffe620;
+  color: black;
+}

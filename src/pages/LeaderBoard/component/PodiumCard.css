@@ -1,0 +1,13 @@
+.podium-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  margin: 4px;
+  padding: 4px;
+  height: 220px;
+}
+
+.first-rank {
+  height: 260px;
+}
