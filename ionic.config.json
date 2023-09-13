@@ -1,0 +1,12 @@
+{
+  "name": "vc-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "proxies": [],
+  "devServer": {
+    "port": 4000,
+    "localAddress": "localhost"
+  }
+}

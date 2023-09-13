@@ -1,0 +1,602 @@
+{
+  "userAuth": [
+    {
+      "email": "ajhar@vayana.com",
+      "mpin": 1111
+    },
+    {
+      "email": "sanket@vayana.com",
+      "mpin": 2222
+    },
+    {
+      "email": "dipali@vayana.com",
+      "mpin": 3333
+    }
+  ],
+  "senderRank": [
+    {
+      "userId": "V00005",
+      "starCount": 12
+    },
+    {
+      "userId": "V00006",
+      "starCount": 8
+    },
+    {
+      "userId": "V00007",
+      "starCount": 7
+    },
+    {
+      "userId": "V00001",
+      "starCount": 5
+    },
+    {
+      "userId": "V00002",
+      "starCount": 3
+    },
+    {
+      "userId": "V00003",
+      "starCount": 1
+    }
+  ],
+  "receiverRank": [
+    {
+      "userId": "V00006",
+      "starCount": 10
+    },
+    {
+      "userId": "V00007",
+      "starCount": 8
+    },
+    {
+      "userId": "V00005",
+      "starCount": 6
+    },
+    {
+      "userId": "V00001",
+      "starCount": 3
+    },
+    {
+      "userId": "V00002",
+      "starCount": 2
+    },
+    {
+      "userId": "V00003",
+      "starCount": 2
+    },
+    {
+      "userId": "V00004",
+      "starCount": 1
+    }
+  ],
+  "userProfiles": [
+    {
+      "id": "V00001",
+      "name": "Ajhar Shaikh",
+      "email": "ajhar@vayana.com",
+      "mpin": 1111,
+      "bu": "IF",
+      "team": "Engineering"
+    },
+    {
+      "id": "V00002",
+      "name": "Sanket Patil",
+      "email": "sanket@vayana.com",
+      "mpin": 2222,
+      "bu": "IF",
+      "team": "Vision"
+    },
+    {
+      "id": "V00003",
+      "name": "Dipali Gunjal",
+      "email": "dipali@vayana.com",
+      "mpin": 3333,
+      "bu": "IF",
+      "team": "VStar"
+    },
+    {
+      "id": "V00004",
+      "name": "Namrata Patil",
+      "email": "namrata@vayana.com",
+      "mpin": 4444,
+      "bu": "VTX",
+      "team": "Core"
+    },
+    {
+      "id": "V00005",
+      "name": "Shubham Jadhav",
+      "email": "shubham@vayana.com",
+      "mpin": 5555,
+      "bu": "GBS",
+      "team": "GSP"
+    },
+    {
+      "id": "V00006",
+      "name": "Tejal Patil",
+      "email": "tejal@vayana.com",
+      "mpin": 6666,
+      "bu": "V2P",
+      "team": "VTap"
+    },
+    {
+      "id": "V00007",
+      "name": "Deepak Sharma",
+      "email": "deepak@vayana.com",
+      "mpin": 7777,
+      "bu": "HYLO",
+      "team": "VAYU"
+    },
+    {
+      "id": "V00008",
+      "name": "Pramila Tawari",
+      "email": "pramila@vayana.com",
+      "mpin": 8888,
+      "bu": "IF",
+      "team": "V2"
+    },
+    {
+      "id": "V00009",
+      "name": "Mayur Sonwane",
+      "email": "mayur@vayana.com",
+      "mpin": 9999,
+      "bu": "VTX",
+      "team": "Onboarding"
+    },
+    {
+      "id": "V00010",
+      "name": "Anish Shinde",
+      "email": "anish@vayana.com",
+      "mpin": 11111,
+      "bu": "V2P",
+      "team": "VTap"
+    },
+    {
+      "id": "V00011",
+      "name": "Chaitanya Moghal",
+      "email": "chaitanya@vayana.com",
+      "mpin": 22222,
+      "bu": "VTX",
+      "team": "Onboarding"
+    },
+    {
+      "id": "V00012",
+      "name": "Shreevali Kushe",
+      "email": "shree@vayana.com",
+      "mpin": 33333,
+      "bu": "HYLO",
+      "team": "VAYU"
+    },
+    {
+      "id": "V00013",
+      "name": "Dipen Shah",
+      "email": "dipen@vayana.com",
+      "mpin": 33333,
+      "bu": "IF",
+      "team": "LOS"
+    }
+  ],
+  "starTypes": [
+    {
+      "id": 1,
+      "name": "Welcome to Team!",
+      "description": "Greet new member to the team"
+    },
+    {
+      "id": 2,
+      "name": "Excellent in work!",
+      "description": "Demonstrate Excellency in work"
+    },
+    {
+      "id": 3,
+      "name": "Team Player!",
+      "description": "Coordinate or Help team member"
+    },
+    {
+      "id": 4,
+      "name": "Out of the box Thinker!",
+      "description": "Bring different thought process for decision making."
+    },
+    {
+      "id": 5,
+      "name": "Fun Time!",
+      "description": "Enjoy time at workplace, team outing or events."
+    }
+  ],
+  "stars": [
+    {
+      "id": 1,
+      "senderId": "V00001",
+      "receiverId": "V00002",
+      "starType": 1,
+      "comment": "Welcome to the crazy team! #vstar",
+      "time": 1682057002586
+    },
+    {
+      "id": 2,
+      "senderId": "V00004",
+      "receiverId": "V00003",
+      "starType": 1,
+      "comment": "Welcome to vayana Family! #fresher #batch2023 #newJoinee",
+      "time": 1682057012914
+    },
+    {
+      "id": 3,
+      "senderId": "V00001",
+      "receiverId": "V00002",
+      "starType": 2,
+      "comment": "To have no review comments in dozen of #prs which I have reviewed clearly shows perfection in the work you do, keep inspiring. #cleanPRs",
+      "time": 1682057017393
+    },
+    {
+      "senderId": "V00001",
+      "receiverId": "V00003",
+      "starType": 2,
+      "comment": "Your #hardWork is truly impressive. Thank you for always delivering high-quality work. #appreciation",
+      "time": 1682057020897,
+      "id": 4
+    },
+    {
+      "senderId": "V00005",
+      "receiverId": "V00002",
+      "starType": 3,
+      "comment": "I just wanted to take a moment to recognize your #hardWork and dedication as a team player. You consistently go above and beyond to support our team, and I'm grateful to have you on board. #teamBackbone",
+      "time": 1682057024161,
+      "id": 5
+    },
+    {
+      "senderId": "V00006",
+      "receiverId": "V00001",
+      "starType": 5,
+      "comment": "Your positive attitude and fun-loving nature have a way of making everyone around you feel #energized and #motivated. Thank you for being an exceptional fun-time professional!",
+      "time": 1682057031833,
+      "id": 6
+    },
+    {
+      "senderId": "V00003",
+      "receiverId": "V00001",
+      "starType": 4,
+      "comment": "Your unique perspective and innovative ideas have helped our team approach problems in new and creative ways. Thank you for being an exceptional #out-of-the-box thinker professional.",
+      "time": 1682057039138,
+      "id": 7
+    },
+    {
+      "senderId": "V00008",
+      "receiverId": "V00002",
+      "starType": 1,
+      "comment": "#Welcome to our team! We are thrilled to have you join us and look forward to working together to achieve our goals.",
+      "time": 1682057042609,
+      "id": 8
+    },
+    {
+      "senderId": "V00001",
+      "receiverId": "V00009",
+      "starType": 5,
+      "comment": "Your ability to bring laughter and levity to even the most stressful situations is truly impressive. You are an invaluable member of our team and we #appreciate your fun-loving spirit.",
+      "time": 1682057046177,
+      "id": 9
+    },
+    {
+      "senderId": "V00009",
+      "receiverId": "V00011",
+      "starType": 4,
+      "comment": "Your ability to think outside the box and challenge the status quo has greatly contributed to our team's success. We appreciate your #creativity and #willingness to take risks.",
+      "time": 1682057051146,
+      "id": 10
+    },
+    {
+      "senderId": "V00005",
+      "receiverId": "V00004",
+      "starType": 2,
+      "comment": "Your attention to detail is #remarkable. It's a pleasure working with someone who takes such pride in their work",
+      "time": 1682057055777,
+      "id": 11
+    },
+    {
+      "senderId": "V00012",
+      "receiverId": "V00003",
+      "starType": 3,
+      "comment": "Your positive #attitude, strong work #ethic, and #commitment to teamwork make you an invaluable asset to our organization. Thank you for your continued efforts as a team worker professional.",
+      "time": 1682057069362,
+      "id": 12
+    },
+    {
+      "senderId": "V00004",
+      "receiverId": "V00006",
+      "starType": 1,
+      "comment": "#Congratulations on starting your new role! We are excited to have you as a part of our team and can't wait to see what you bring to the table.",
+      "time": 1682057073186,
+      "id": 13
+    },
+    {
+      "senderId": "V00001",
+      "receiverId": "V00003",
+      "starType": 5,
+      "comment": "Your #infectious personality and love for life is contagious. Thank you for being a funtime professional and for bringing joy to our workplace",
+      "time": 1682057077058,
+      "id": 15
+    },
+    {
+      "senderId": "V00003",
+      "receiverId": "V00002",
+      "starType": 2,
+      "comment": "Your #expertise and #knowledge are invaluable. Your contributions have been instrumental in the success of our team.",
+      "time": 1682057080818,
+      "id": 16
+    },
+    {
+      "senderId": "V00011",
+      "receiverId": "V00001",
+      "starType": 1,
+      "comment": "Welcome aboard! We are excited to have you join our company and look forward to getting to know you better.",
+      "time": 1682057086466,
+      "id": 17
+    },
+    {
+      "senderId": "V00010",
+      "receiverId": "V00002",
+      "starType": 3,
+      "comment": "You set a great example for all of us to follow. Thank you for being an excellent team player #leadByExample",
+      "time": 1682057090938,
+      "id": 18
+    },
+    {
+      "senderId": "V00011",
+      "receiverId": "V00001",
+      "starType": 5,
+      "comment": "Your ability to make work fun and enjoyable is a rare gift. You are a true asset to our team and we appreciate all that you do as a funtime professional.",
+      "time": 1682057096234,
+      "id": 19
+    },
+    {
+      "senderId": "V00001",
+      "receiverId": "V00003",
+      "starType": 2,
+      "comment": "You consistently demonstrate a strong work ethic and dedication to your craft. Your commitment to excellence is inspiring",
+      "time": 1681907056864,
+      "id": 20
+    },
+    {
+      "senderId": "V00003",
+      "receiverId": "V00002",
+      "starType": 1,
+      "comment": "Congrats on joining our team! We hope you find your experience here both rewarding and fulfilling.",
+      "time": 1682057100499,
+      "id": 21
+    },
+    {
+      "senderId": "V00001",
+      "receiverId": "V00002",
+      "starType": 2,
+      "comment": "Thank you for your #hardWork and #dedication. #keepRocking #teamIF",
+      "time": 1682057110666,
+      "id": 22
+    },
+    {
+      "senderId": "V00002",
+      "receiverId": "V00006",
+      "starType": 2,
+      "comment": "Your #professionalism sets a high standard for others to follow. It's an honor to work alongside someone of your caliber.",
+      "time": 1682057116450,
+      "id": 23
+    },
+    {
+      "senderId": "V00008",
+      "receiverId": "V00005",
+      "starType": 2,
+      "comment": "You are a true asset to our organization. Your #professionalism and expertise have been critical to our success",
+      "time": 1682059117641,
+      "id": 24
+    },
+    {
+      "senderId": "V00001",
+      "receiverId": "V00003",
+      "starType": 2,
+      "comment": "Your #professionalism and commitment to excellence make you a pleasure to work with. Thank you for all that you do",
+      "time": 1682059661958,
+      "id": 25
+    },
+    {
+      "senderId": "V00006",
+      "receiverId": "V00005",
+      "starType": 5,
+      "comment": "Your ability to make work fun and enjoyable is a rare gift. You are a true asset to our team and we appreciate all that you do as a funtime professional.",
+      "time": 1682570971834,
+      "id": 26
+    },
+    {
+      "senderId": "V00004",
+      "receiverId": "V00003",
+      "starType": 2,
+      "comment": "Thank you solving and helping in selection of proper #dataStructure.",
+      "time": 1682571115748,
+      "id": 27
+    },
+    {
+      "senderId": "V00005",
+      "receiverId": "V00013",
+      "starType": 4,
+      "comment": "Your ability to think outside the box and challenge the status quo has greatly contributed to our team's success. We appreciate your #creativity and #willingness to take risks.",
+      "time": 1682571168888,
+      "id": 28
+    },
+    {
+      "senderId": "V00009",
+      "receiverId": "V00011",
+      "starType": 3,
+      "comment": "Your positive #attitude, strong work #ethic, and #commitment to teamwork make you an invaluable asset to our team. Thank you for your #neverTiring efforts.",
+      "time": 1682571232841,
+      "id": 29
+    },
+    {
+      "senderId": "V00003",
+      "receiverId": "V00012",
+      "starType": 1,
+      "comment": "#Welcome to our team! We are happy to have you join us, Let's enjoy the ride together #teamVStars",
+      "time": 1682571306482,
+      "id": 30
+    },
+    {
+      "senderId": "V00003",
+      "receiverId": "V00002",
+      "starType": 2,
+      "comment": "Great #dedication at work and #commitments to finish tasks on time.",
+      "time": 1682571847325,
+      "id": 31
+    },
+    {
+      "senderId": "V00008",
+      "receiverId": "V00013",
+      "starType": 3,
+      "comment": "Thank you for guiding and helping in debugging #prodBug last night you are #lifeSaver #teamWork",
+      "time": 1682571867325,
+      "id": 32
+    },
+    {
+      "senderId": "V00002",
+      "receiverId": "V00001",
+      "starType": 1,
+      "comment": "Welcome",
+      "time": 1684998134903,
+      "location": {
+        "lat": 0,
+        "lng": 0,
+        "placeName": ",  ,"
+      },
+      "id": 33
+    },
+    {
+      "senderId": "V00003",
+      "receiverId": "V00005",
+      "starType": 3,
+      "comment": "team ",
+      "time": 1684998307703,
+      "location": {
+        "lat": 0,
+        "lng": 0,
+        "placeName": ",  ,"
+      },
+      "id": 34
+    },
+    {
+      "senderId": "V00003",
+      "receiverId": "V00006",
+      "starType": 2,
+      "comment": "excellent in work",
+      "time": 1684998357023,
+      "location": {
+        "lat": 0,
+        "lng": 0,
+        "placeName": ",  ,"
+      },
+      "id": 35
+    },
+    {
+      "senderId": "V00003",
+      "receiverId": "V00002",
+      "starType": 5,
+      "comment": "fun time",
+      "time": 1685035994673,
+      "location": {
+        "lat": 0,
+        "lng": 0,
+        "placeName": ",  ,"
+      },
+      "id": 36
+    },
+    {
+      "senderId": "V00003",
+      "receiverId": "V00001",
+      "starType": 1,
+      "comment": "welcome",
+      "time": 1685075972484,
+      "location": {
+        "lat": 0,
+        "lng": 0,
+        "placeName": ",  ,"
+      },
+      "id": 37
+    },
+    {
+      "senderId": "V00003",
+      "receiverId": "V00002",
+      "starType": 3,
+      "comment": "team player",
+      "time": 1685076091986,
+      "location": {
+        "lat": 0,
+        "lng": 0,
+        "placeName": ",  ,"
+      },
+      "id": 38
+    },
+    {
+      "senderId": "V00003",
+      "receiverId": "V00001",
+      "starType": 2,
+      "comment": "Excellent",
+      "time": 1685081443056,
+      "location": {
+        "lat": 0,
+        "lng": 0,
+        "placeName": ",  ,"
+      },
+      "id": 39
+    },
+    {
+      "senderId": "V00003",
+      "receiverId": "V00006",
+      "starType": 2,
+      "comment": "Excellent",
+      "time": 1685094491876,
+      "location": {
+        "lat": 0,
+        "lng": 0,
+        "placeName": ",  ,"
+      },
+      "id": 40
+    },
+    {
+      "senderId": "V00003",
+      "receiverId": "V00008",
+      "starType": 5,
+      "comment": "funnier",
+      "time": 1685094510342,
+      "location": {
+        "lat": 0,
+        "lng": 0,
+        "placeName": ",  ,"
+      },
+      "id": 41
+    }
+  ],
+  "feedback": [
+    {
+      "id": 1,
+      "senderId": "V00001",
+      "comment": "improve design",
+      "time": 1680699249607
+    }
+  ],
+  "hashtags": [
+    {
+      "id": 1,
+      "name": "#newVadodaraOffice",
+      "count": 15
+    },
+    {
+      "id": 2,
+      "name": "#teamVTX",
+      "count": 12
+    },
+    {
+      "id": 3,
+      "name": "#salesSuperStar",
+      "count": 10
+    },
+    {
+      "id": 4,
+      "name": "#kotlinRockStar",
+      "count": 9
+    }
+  ]
+}
