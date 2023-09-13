@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'PoppinsRegular';
+  src: url('../public/assets/fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'PoppinsSemiBold';
+  src: url('../public/assets/fonts/Poppins-SemiBold.ttf');
+}
+
+html.ios {
+  --ion-default-font: -apple-system, BlinkMacSystemFont, 'PoppinsRegular',
+    'PoppinsRegularBold', 'Helvetica Neue', 'Roboto', sans-serif;
+}
+
+html.md {
+  --ion-default-font: 'PoppinsRegular', 'PoppinsRegularBold', 'Roboto',
+    'Helvetica Neue', sans-serif;
+}
+
+.page-container-bg {
+  --background: var(--ion-color-light);
+}
